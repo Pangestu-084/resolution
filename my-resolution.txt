@@ -5,7 +5,7 @@ c
 d
 e
 f
-g
+
 h
 i
 j
@@ -20,5 +20,4 @@ r
 s
 t
 u
-v
-w
+
